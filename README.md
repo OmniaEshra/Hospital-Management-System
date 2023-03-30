@@ -26,3 +26,6 @@ Update the database credentials in config.php to match your database configurati
 Start your web server and navigate to index.php to access the system.
 
 ```
+
+
+![image](https://user-images.githubusercontent.com/113691665/228959057-35581610-6070-4882-8298-0799b2116b1f.png)
