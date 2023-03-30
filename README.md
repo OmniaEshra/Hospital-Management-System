@@ -16,6 +16,8 @@ Appointment scheduling: schedule and manage appointments for patients and doctor
 Electronic health records: store and retrieve patient health records
 Inventory management: track and manage medical supplies and equipment
 
+The system facilitates the registration needs as it records all the information related to the patient and creates his own medical record to make it easier for all departments in the hospital to know the required data without the need to register the patient's data again. This system will reduce routine operations and technical errors and will contribute to saving money and time as well.
+
 ## Getting Started
 To run the system, you will need a web server with PHP and SQL support. You can use XAMPP or WAMP to set up a local development environment.
 
